@@ -1,5 +1,8 @@
 ---
-title: "Welcome to my blog"
+title: "Bienvenido a mi blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Estoy encantado que estes aquí. Tengo planeado hablar sobre....
+* Impresión 3D
+* Programación Visual
+* Arduino
